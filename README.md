@@ -224,10 +224,9 @@ This project strengthened practical knowledge of:
 
 # 👨‍💻 Author
 
-**Omkar Manthena**
+**Prasanna Kadrekar**
 
-- GitHub: https://github.com/FlameDash25
-- LinkedIn: https://www.linkedin.com/in/omkar-manthena-356132289/
+- GitHub: https://github.com/prxsanna
 
 ---
 
